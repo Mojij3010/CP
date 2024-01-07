@@ -1,3 +1,4 @@
+// Author : Mojij Ansari
 #include <stdio.h>
 #include <string.h>
 
